@@ -1,0 +1,22 @@
+{
+  "name": "@giga-web/util",
+  "version": "1.0.0",
+  "description": "giga-web",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giga-web/util.git"
+  },
+  "keywords": [
+    "util"
+  ],
+  "author": "giga-web",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giga-web/util/issues"
+  },
+  "homepage": "https://github.com/giga-web/util#readme"
+}
